@@ -2,9 +2,10 @@
 
 You will be working on this project with our Replit starter code.
 
-Start by importing the project on Replit.
-Next, you will see a .replit window.
-Select Use run command and click the Done button.
+- Start by importing the project on Replit.
+- Next, you will see a .replit window.
+- Select Use run command and click the Done button.
+
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
   235

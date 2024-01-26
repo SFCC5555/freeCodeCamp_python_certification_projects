@@ -2,9 +2,10 @@
 
 You will be working on this project with our Replit starter code.
 
-Start by importing the project on Replit.
-Next, you will see a .replit window.
-Select Use run command and click the Done button.
+- Start by importing the project on Replit.
+- Next, you will see a .replit window.
+- Select Use run command and click the Done button.
+
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
 ## Rectangle class
